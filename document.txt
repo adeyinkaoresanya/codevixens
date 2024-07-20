@@ -1,1 +1,2 @@
-I want to improve  this document
+I want to improve  this document.
+This is another improvement.
